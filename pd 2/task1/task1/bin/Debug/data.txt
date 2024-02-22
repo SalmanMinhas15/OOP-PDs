@@ -1,0 +1,12 @@
+salman,123,Admin
+salman,123,Admin
+salman,123,Admin
+salman,123,Admin
+salman,123,admin
+salman,123,admin
+salman,1212,admin
+salman,123,Customer
+ali,123,customer
+ali,123,Customer
+asad,123,Admin
+hamza,123,Customer
