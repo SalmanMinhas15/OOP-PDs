@@ -1,0 +1,14 @@
+D:\2nd smester\Oop\pd 2\task1\task1\bin\Debug\task1.exe.config
+D:\2nd smester\Oop\pd 2\task1\task1\bin\Debug\task1.exe
+D:\2nd smester\Oop\pd 2\task1\task1\bin\Debug\task1.pdb
+D:\2nd smester\Oop\pd 2\task1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+D:\2nd smester\Oop\pd 2\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+D:\2nd smester\Oop\pd 2\task1\task1\obj\Debug\task1.exe
+D:\2nd smester\Oop\pd 2\task1\task1\obj\Debug\task1.pdb
+D:\2nd smester\Oop\pd 3\task5\task1\bin\Debug\task1.exe.config
+D:\2nd smester\Oop\pd 3\task5\task1\bin\Debug\task1.exe
+D:\2nd smester\Oop\pd 3\task5\task1\bin\Debug\task1.pdb
+D:\2nd smester\Oop\pd 3\task5\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+D:\2nd smester\Oop\pd 3\task5\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+D:\2nd smester\Oop\pd 3\task5\task1\obj\Debug\task1.exe
+D:\2nd smester\Oop\pd 3\task5\task1\obj\Debug\task1.pdb

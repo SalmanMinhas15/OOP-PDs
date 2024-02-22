@@ -1,0 +1,7 @@
+D:\2nd smester\Oop\pd 4\problem1\problem1\bin\Debug\problem1.exe.config
+D:\2nd smester\Oop\pd 4\problem1\problem1\bin\Debug\problem1.exe
+D:\2nd smester\Oop\pd 4\problem1\problem1\bin\Debug\problem1.pdb
+D:\2nd smester\Oop\pd 4\problem1\problem1\obj\Debug\problem1.csproj.AssemblyReference.cache
+D:\2nd smester\Oop\pd 4\problem1\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+D:\2nd smester\Oop\pd 4\problem1\problem1\obj\Debug\problem1.exe
+D:\2nd smester\Oop\pd 4\problem1\problem1\obj\Debug\problem1.pdb
