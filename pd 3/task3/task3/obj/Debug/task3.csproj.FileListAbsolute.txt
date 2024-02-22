@@ -1,0 +1,7 @@
+D:\2nd smester\Oop\pd 3\task3\task3\bin\Debug\task3.exe.config
+D:\2nd smester\Oop\pd 3\task3\task3\bin\Debug\task3.exe
+D:\2nd smester\Oop\pd 3\task3\task3\bin\Debug\task3.pdb
+D:\2nd smester\Oop\pd 3\task3\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+D:\2nd smester\Oop\pd 3\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+D:\2nd smester\Oop\pd 3\task3\task3\obj\Debug\task3.exe
+D:\2nd smester\Oop\pd 3\task3\task3\obj\Debug\task3.pdb
